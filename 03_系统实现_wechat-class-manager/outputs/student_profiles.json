@@ -1,0 +1,327 @@
+[
+  {
+    "name": "何五",
+    "messages": 4,
+    "questions": 1,
+    "answers": 0,
+    "submissions": 0,
+    "challenges": [],
+    "last_active": "2026-06-05T18:39:00+08:00",
+    "skill_tags": [
+      "待激活"
+    ]
+  },
+  {
+    "name": "冯四",
+    "messages": 2,
+    "questions": 0,
+    "answers": 0,
+    "submissions": 0,
+    "challenges": [],
+    "last_active": "2026-06-04T01:01:00+08:00",
+    "skill_tags": [
+      "待激活"
+    ]
+  },
+  {
+    "name": "刘二",
+    "messages": 8,
+    "questions": 1,
+    "answers": 0,
+    "submissions": 3,
+    "challenges": [
+      "C5"
+    ],
+    "last_active": "2026-06-03T16:27:00+08:00",
+    "skill_tags": [
+      "稳定交付者"
+    ]
+  },
+  {
+    "name": "吴九",
+    "messages": 9,
+    "questions": 1,
+    "answers": 0,
+    "submissions": 3,
+    "challenges": [
+      "C4"
+    ],
+    "last_active": "2026-06-01T14:15:00+08:00",
+    "skill_tags": [
+      "稳定交付者"
+    ]
+  },
+  {
+    "name": "周八",
+    "messages": 10,
+    "questions": 1,
+    "answers": 2,
+    "submissions": 3,
+    "challenges": [
+      "C4"
+    ],
+    "last_active": "2026-05-31T21:31:00+08:00",
+    "skill_tags": [
+      "稳定交付者",
+      "答疑贡献者",
+      "高活跃"
+    ]
+  },
+  {
+    "name": "唐一",
+    "messages": 2,
+    "questions": 1,
+    "answers": 0,
+    "submissions": 0,
+    "challenges": [],
+    "last_active": "2026-05-31T17:58:00+08:00",
+    "skill_tags": [
+      "待激活"
+    ]
+  },
+  {
+    "name": "孙七",
+    "messages": 9,
+    "questions": 1,
+    "answers": 2,
+    "submissions": 3,
+    "challenges": [
+      "C2"
+    ],
+    "last_active": "2026-05-31T04:48:00+08:00",
+    "skill_tags": [
+      "稳定交付者",
+      "答疑贡献者"
+    ]
+  },
+  {
+    "name": "宋十",
+    "messages": 5,
+    "questions": 1,
+    "answers": 2,
+    "submissions": 0,
+    "challenges": [],
+    "last_active": "2026-06-09T06:18:00+08:00",
+    "skill_tags": [
+      "答疑贡献者"
+    ]
+  },
+  {
+    "name": "张三",
+    "messages": 12,
+    "questions": 1,
+    "answers": 0,
+    "submissions": 6,
+    "challenges": [
+      "C1",
+      "C2"
+    ],
+    "last_active": "2026-06-07T08:05:00+08:00",
+    "skill_tags": [
+      "稳定交付者",
+      "高活跃"
+    ]
+  },
+  {
+    "name": "曹六",
+    "messages": 2,
+    "questions": 0,
+    "answers": 0,
+    "submissions": 0,
+    "challenges": [],
+    "last_active": "2026-06-06T05:44:00+08:00",
+    "skill_tags": [
+      "待激活"
+    ]
+  },
+  {
+    "name": "李四",
+    "messages": 11,
+    "questions": 1,
+    "answers": 0,
+    "submissions": 6,
+    "challenges": [
+      "C1",
+      "C8"
+    ],
+    "last_active": "2026-06-03T07:33:00+08:00",
+    "skill_tags": [
+      "稳定交付者",
+      "高活跃"
+    ]
+  },
+  {
+    "name": "杨三",
+    "messages": 9,
+    "questions": 1,
+    "answers": 2,
+    "submissions": 3,
+    "challenges": [
+      "C6"
+    ],
+    "last_active": "2026-06-04T09:11:00+08:00",
+    "skill_tags": [
+      "稳定交付者",
+      "答疑贡献者"
+    ]
+  },
+  {
+    "name": "林七",
+    "messages": 5,
+    "questions": 1,
+    "answers": 2,
+    "submissions": 0,
+    "challenges": [],
+    "last_active": "2026-06-07T04:06:00+08:00",
+    "skill_tags": [
+      "答疑贡献者"
+    ]
+  },
+  {
+    "name": "王五",
+    "messages": 10,
+    "questions": 1,
+    "answers": 0,
+    "submissions": 4,
+    "challenges": [
+      "C1",
+      "C8"
+    ],
+    "last_active": "2026-06-01T20:25:00+08:00",
+    "skill_tags": [
+      "稳定交付者",
+      "高活跃"
+    ]
+  },
+  {
+    "name": "罗八",
+    "messages": 4,
+    "questions": 1,
+    "answers": 0,
+    "submissions": 0,
+    "challenges": [],
+    "last_active": "2026-06-07T20:50:00+08:00",
+    "skill_tags": [
+      "待激活"
+    ]
+  },
+  {
+    "name": "许二",
+    "messages": 3,
+    "questions": 0,
+    "answers": 2,
+    "submissions": 0,
+    "challenges": [],
+    "last_active": "2026-06-04T08:56:00+08:00",
+    "skill_tags": [
+      "答疑贡献者"
+    ]
+  },
+  {
+    "name": "谢九",
+    "messages": 5,
+    "questions": 1,
+    "answers": 2,
+    "submissions": 0,
+    "challenges": [],
+    "last_active": "2026-06-08T13:34:00+08:00",
+    "skill_tags": [
+      "答疑贡献者"
+    ]
+  },
+  {
+    "name": "赵六",
+    "messages": 7,
+    "questions": 1,
+    "answers": 0,
+    "submissions": 2,
+    "challenges": [
+      "C2"
+    ],
+    "last_active": "2026-05-30T12:04:00+08:00",
+    "skill_tags": [
+      "稳定交付者"
+    ]
+  },
+  {
+    "name": "邓五",
+    "messages": 2,
+    "questions": 0,
+    "answers": 0,
+    "submissions": 0,
+    "challenges": [],
+    "last_active": "2026-06-05T03:23:00+08:00",
+    "skill_tags": [
+      "待激活"
+    ]
+  },
+  {
+    "name": "郑十",
+    "messages": 8,
+    "questions": 1,
+    "answers": 2,
+    "submissions": 1,
+    "challenges": [
+      "C4"
+    ],
+    "last_active": "2026-06-02T06:59:00+08:00",
+    "skill_tags": [
+      "答疑贡献者"
+    ]
+  },
+  {
+    "name": "陈一",
+    "messages": 10,
+    "questions": 1,
+    "answers": 2,
+    "submissions": 3,
+    "challenges": [
+      "C5"
+    ],
+    "last_active": "2026-06-02T23:43:00+08:00",
+    "skill_tags": [
+      "稳定交付者",
+      "答疑贡献者",
+      "高活跃"
+    ]
+  },
+  {
+    "name": "韩三",
+    "messages": 3,
+    "questions": 0,
+    "answers": 2,
+    "submissions": 0,
+    "challenges": [],
+    "last_active": "2026-06-05T15:27:00+08:00",
+    "skill_tags": [
+      "答疑贡献者"
+    ]
+  },
+  {
+    "name": "高六",
+    "messages": 5,
+    "questions": 1,
+    "answers": 2,
+    "submissions": 0,
+    "challenges": [],
+    "last_active": "2026-06-06T11:22:00+08:00",
+    "skill_tags": [
+      "答疑贡献者"
+    ]
+  },
+  {
+    "name": "黄四",
+    "messages": 9,
+    "questions": 1,
+    "answers": 2,
+    "submissions": 3,
+    "challenges": [
+      "C6"
+    ],
+    "last_active": "2026-06-05T05:34:00+08:00",
+    "skill_tags": [
+      "稳定交付者",
+      "答疑贡献者"
+    ]
+  }
+]

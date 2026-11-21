@@ -1,0 +1,132 @@
+{
+  "group_name": "Elite20-项目协同群",
+  "teachers": [
+    "staff_teacher_01",
+    "staff_ta_01"
+  ],
+  "members": [
+    {
+      "nickname": "张三",
+      "wechat_id": "wxid_01",
+      "major": "计算机"
+    },
+    {
+      "nickname": "李四",
+      "wechat_id": "wxid_02",
+      "major": "设计"
+    },
+    {
+      "nickname": "王五",
+      "wechat_id": "wxid_03",
+      "major": "商科"
+    },
+    {
+      "nickname": "赵六",
+      "wechat_id": "wxid_04",
+      "major": "统计"
+    },
+    {
+      "nickname": "孙七",
+      "wechat_id": "wxid_05",
+      "major": "传媒"
+    },
+    {
+      "nickname": "周八",
+      "wechat_id": "wxid_06",
+      "major": "计算机"
+    },
+    {
+      "nickname": "吴九",
+      "wechat_id": "wxid_07",
+      "major": "设计"
+    },
+    {
+      "nickname": "郑十",
+      "wechat_id": "wxid_08",
+      "major": "商科"
+    },
+    {
+      "nickname": "陈一",
+      "wechat_id": "wxid_09",
+      "major": "统计"
+    },
+    {
+      "nickname": "刘二",
+      "wechat_id": "wxid_10",
+      "major": "传媒"
+    },
+    {
+      "nickname": "杨三",
+      "wechat_id": "wxid_11",
+      "major": "计算机"
+    },
+    {
+      "nickname": "黄四",
+      "wechat_id": "wxid_12",
+      "major": "设计"
+    },
+    {
+      "nickname": "何五",
+      "wechat_id": "wxid_13",
+      "major": "商科"
+    },
+    {
+      "nickname": "高六",
+      "wechat_id": "wxid_14",
+      "major": "统计"
+    },
+    {
+      "nickname": "林七",
+      "wechat_id": "wxid_15",
+      "major": "传媒"
+    },
+    {
+      "nickname": "罗八",
+      "wechat_id": "wxid_16",
+      "major": "计算机"
+    },
+    {
+      "nickname": "谢九",
+      "wechat_id": "wxid_17",
+      "major": "设计"
+    },
+    {
+      "nickname": "宋十",
+      "wechat_id": "wxid_18",
+      "major": "商科"
+    },
+    {
+      "nickname": "唐一",
+      "wechat_id": "wxid_19",
+      "major": "统计"
+    },
+    {
+      "nickname": "许二",
+      "wechat_id": "wxid_20",
+      "major": "传媒"
+    },
+    {
+      "nickname": "韩三",
+      "wechat_id": "wxid_21",
+      "major": "计算机"
+    },
+    {
+      "nickname": "冯四",
+      "wechat_id": "wxid_22",
+      "major": "设计"
+    },
+    {
+      "nickname": "邓五",
+      "wechat_id": "wxid_23",
+      "major": "商科"
+    },
+    {
+      "nickname": "曹六",
+      "wechat_id": "wxid_24",
+      "major": "统计"
+    }
+  ],
+  "quiet_since_days": 7,
+  "deadline_warning_days": 3,
+  "min_submission_rate_pct": 30
+}

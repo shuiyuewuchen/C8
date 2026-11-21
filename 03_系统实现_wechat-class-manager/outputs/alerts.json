@@ -1,0 +1,114 @@
+[
+  {
+    "kind": "deadline_risk",
+    "severity": "high",
+    "subject": "C6",
+    "detail": "Web App 部署上线 距截止 1.7 天，22 人未提交",
+    "evidence": "邓五,李四,周八,宋十,谢九,高六,孙七,冯四"
+  },
+  {
+    "kind": "silent_student",
+    "severity": "medium",
+    "subject": "王五",
+    "detail": "连续 7 天未发言",
+    "evidence": "last_active=2026-06-01T20:25:00+08:00"
+  },
+  {
+    "kind": "silent_student",
+    "severity": "medium",
+    "subject": "赵六",
+    "detail": "连续 9 天未发言",
+    "evidence": "last_active=2026-05-30T12:04:00+08:00"
+  },
+  {
+    "kind": "silent_student",
+    "severity": "medium",
+    "subject": "孙七",
+    "detail": "连续 9 天未发言",
+    "evidence": "last_active=2026-05-31T04:48:00+08:00"
+  },
+  {
+    "kind": "silent_student",
+    "severity": "medium",
+    "subject": "周八",
+    "detail": "连续 8 天未发言",
+    "evidence": "last_active=2026-05-31T21:31:00+08:00"
+  },
+  {
+    "kind": "silent_student",
+    "severity": "medium",
+    "subject": "吴九",
+    "detail": "连续 7 天未发言",
+    "evidence": "last_active=2026-06-01T14:15:00+08:00"
+  },
+  {
+    "kind": "silent_student",
+    "severity": "medium",
+    "subject": "唐一",
+    "detail": "连续 8 天未发言",
+    "evidence": "last_active=2026-05-31T17:58:00+08:00"
+  },
+  {
+    "kind": "low_submission_rate",
+    "severity": "high",
+    "subject": "C1",
+    "detail": "提交率 12.5%（3/24）低于 30% 阈值",
+    "evidence": "信息获取与翻译"
+  },
+  {
+    "kind": "low_submission_rate",
+    "severity": "high",
+    "subject": "C2",
+    "detail": "提交率 12.5%（3/24）低于 30% 阈值",
+    "evidence": "学术内容产出"
+  },
+  {
+    "kind": "low_submission_rate",
+    "severity": "high",
+    "subject": "C3",
+    "detail": "提交率 0.0%（0/24）低于 30% 阈值",
+    "evidence": "群内参与讨论"
+  },
+  {
+    "kind": "low_submission_rate",
+    "severity": "high",
+    "subject": "C4",
+    "detail": "提交率 12.5%（3/24）低于 30% 阈值",
+    "evidence": "技能分享"
+  },
+  {
+    "kind": "low_submission_rate",
+    "severity": "high",
+    "subject": "C5",
+    "detail": "提交率 8.3%（2/24）低于 30% 阈值",
+    "evidence": "GitHub 开源协作"
+  },
+  {
+    "kind": "low_submission_rate",
+    "severity": "high",
+    "subject": "C6",
+    "detail": "提交率 8.3%（2/24）低于 30% 阈值",
+    "evidence": "Web App 部署上线"
+  },
+  {
+    "kind": "low_submission_rate",
+    "severity": "high",
+    "subject": "C7",
+    "detail": "提交率 0.0%（0/24）低于 30% 阈值",
+    "evidence": "内容传播"
+  },
+  {
+    "kind": "low_submission_rate",
+    "severity": "high",
+    "subject": "C8",
+    "detail": "提交率 8.3%（2/24）低于 30% 阈值",
+    "evidence": "真实项目落地"
+  },
+  {
+    "kind": "activity_delta",
+    "severity": "medium",
+    "subject": "班级整体",
+    "detail": "最近时段消息速率下降 80.0%",
+    "evidence": "earlier=120, recent/week=24.0"
+  }
+]

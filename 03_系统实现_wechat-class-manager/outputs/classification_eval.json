@@ -1,0 +1,42 @@
+{
+  "accuracy": 96.4,
+  "correct": 162,
+  "total": 168,
+  "per_class": {
+    "announcement": {
+      "precision": 100.0,
+      "recall": 100.0,
+      "support": 8
+    },
+    "answer": {
+      "precision": 100.0,
+      "recall": 100.0,
+      "support": 18
+    },
+    "discussion": {
+      "precision": 95.8,
+      "recall": 92.0,
+      "support": 25
+    },
+    "question": {
+      "precision": 94.7,
+      "recall": 100.0,
+      "support": 18
+    },
+    "resource": {
+      "precision": 100.0,
+      "recall": 100.0,
+      "support": 10
+    },
+    "social": {
+      "precision": 97.8,
+      "recall": 91.8,
+      "support": 49
+    },
+    "submission": {
+      "precision": 93.0,
+      "recall": 100.0,
+      "support": 40
+    }
+  }
+}

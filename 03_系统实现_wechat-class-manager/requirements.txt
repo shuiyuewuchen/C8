@@ -1,0 +1,3 @@
+# 本项目仅使用 Python 3.9+ 标准库，无第三方运行时依赖。
+# 接入真实微信群时需要外部 CLI（见 SETUP.md），它不是 Python 依赖：
+#   npm install -g @canghe_ai/wechat-cli

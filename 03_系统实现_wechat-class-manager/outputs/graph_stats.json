@@ -1,0 +1,20 @@
+{
+  "nodes": {
+    "Challenge": 8,
+    "Message": 154,
+    "QAPair": 18,
+    "Student": 24,
+    "Submission": 40
+  },
+  "edges": {
+    "ANSWERED": 24,
+    "ASKED": 24,
+    "FOR_CHALLENGE": 40,
+    "MENTORED": 14,
+    "SENT": 196,
+    "SUBMITTED": 40,
+    "TAGGED_WITH": 63
+  },
+  "total_nodes": 244,
+  "total_edges": 401
+}

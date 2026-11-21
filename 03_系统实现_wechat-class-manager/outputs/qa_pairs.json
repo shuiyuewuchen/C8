@@ -1,0 +1,236 @@
+[
+  {
+    "question_id": "m0049",
+    "answer_id": "m0050",
+    "asker": "张三",
+    "answerer": "助教-李老师",
+    "question": "C5 GitHub 仓库要公开吗？",
+    "answer": "建议先建私有仓库，验收前改成 public，注意不要泄露密钥。",
+    "topic_tags": [
+      "C5"
+    ],
+    "quality_score": 1.0,
+    "timestamp": "2026-05-15T00:50:00+08:00"
+  },
+  {
+    "question_id": "m0055",
+    "answer_id": "m0056",
+    "asker": "赵六",
+    "answerer": "助教-李老师",
+    "question": "怎么用 wechat-cli 提取群消息？",
+    "answer": "先 sudo wechat-cli init，再 history '群名' --limit 100 --format json。",
+    "topic_tags": [
+      "general"
+    ],
+    "quality_score": 1.0,
+    "timestamp": "2026-05-18T20:20:00+08:00"
+  },
+  {
+    "question_id": "m0051",
+    "answer_id": "m0052",
+    "asker": "李四",
+    "answerer": "孙七",
+    "question": "请问 C8 proposal 的 R̂ 要写多具体？",
+    "answer": "要具体到可验证的数字，例如'完成 3 个模块 + 测试通过率 100%'。",
+    "topic_tags": [
+      "C2"
+    ],
+    "quality_score": 0.8,
+    "timestamp": "2026-05-16T07:20:00+08:00"
+  },
+  {
+    "question_id": "m0057",
+    "answer_id": "m0058",
+    "asker": "孙七",
+    "answerer": "郑十",
+    "question": "为什么我的验证报告是 REJECT？",
+    "answer": "先检查六件套是否齐全，尤其是 AI日志和 README。",
+    "topic_tags": [
+      "general"
+    ],
+    "quality_score": 0.8,
+    "timestamp": "2026-05-20T02:50:00+08:00"
+  },
+  {
+    "question_id": "m0063",
+    "answer_id": "m0064",
+    "asker": "郑十",
+    "answerer": "杨三",
+    "question": "AAR 里的 ΔR 怎么算？",
+    "answer": "ΔR = R̂ − R，即预期产出减去实际产出，差距要诚实暴露。",
+    "topic_tags": [
+      "C8"
+    ],
+    "quality_score": 0.8,
+    "timestamp": "2026-05-23T22:20:00+08:00"
+  },
+  {
+    "question_id": "m0069",
+    "answer_id": "m0070",
+    "asker": "杨三",
+    "answerer": "高六",
+    "question": "请问周报要手动写吗？",
+    "answer": "可以用 class-report 自动生成，再人工补充洞察。",
+    "topic_tags": [
+      "C5"
+    ],
+    "quality_score": 0.8,
+    "timestamp": "2026-05-27T17:50:00+08:00"
+  },
+  {
+    "question_id": "m0071",
+    "answer_id": "m0072",
+    "asker": "黄四",
+    "answerer": "林七",
+    "question": "Property Graph 用 Neo4j 还是 SQLite？",
+    "answer": "原型阶段 SQLite 足够，需要原生图查询时再换 Neo4j。",
+    "topic_tags": [
+      "general"
+    ],
+    "quality_score": 0.8,
+    "timestamp": "2026-05-29T00:20:00+08:00"
+  },
+  {
+    "question_id": "m0073",
+    "answer_id": "m0074",
+    "asker": "何五",
+    "answerer": "助教-李老师",
+    "question": "提交文件名可以用英文吗？",
+    "answer": "可以，但要保持 姓名_C编号_描述.扩展名 的结构。",
+    "topic_tags": [
+      "general"
+    ],
+    "quality_score": 0.8,
+    "timestamp": "2026-05-30T06:50:00+08:00"
+  },
+  {
+    "question_id": "m0075",
+    "answer_id": "m0076",
+    "asker": "高六",
+    "answerer": "谢九",
+    "question": "C6 部署用什么平台？",
+    "answer": "静态站可以用边缘托管，需要后端就用云服务，注意保留部署链接。",
+    "topic_tags": [
+      "C6"
+    ],
+    "quality_score": 0.8,
+    "timestamp": "2026-05-31T13:20:00+08:00"
+  },
+  {
+    "question_id": "m0077",
+    "answer_id": "m0078",
+    "asker": "林七",
+    "answerer": "宋十",
+    "question": "群里问题太多了怎么沉淀？",
+    "answer": "用 qa-sink 自动抽取问答对，按 challenge_ref 打标签。",
+    "topic_tags": [
+      "general"
+    ],
+    "quality_score": 0.8,
+    "timestamp": "2026-06-01T19:50:00+08:00"
+  },
+  {
+    "question_id": "m0079",
+    "answer_id": "m0080",
+    "asker": "罗八",
+    "answerer": "助教-李老师",
+    "question": "asked 一个问题没人回怎么办？",
+    "answer": "可以在周会上提出，或 @ 对应模块的负责人。",
+    "topic_tags": [
+      "general"
+    ],
+    "quality_score": 0.8,
+    "timestamp": "2026-06-03T02:20:00+08:00"
+  },
+  {
+    "question_id": "m0081",
+    "answer_id": "m0082",
+    "asker": "谢九",
+    "answerer": "许二",
+    "question": "怎么证明 AI 日志是真实协作？",
+    "answer": "保留多轮 prompt 迭代记录，体现优化过程而不是一句话指令。",
+    "topic_tags": [
+      "general"
+    ],
+    "quality_score": 0.8,
+    "timestamp": "2026-06-04T08:50:00+08:00"
+  },
+  {
+    "question_id": "m0083",
+    "answer_id": "m0084",
+    "asker": "宋十",
+    "answerer": "韩三",
+    "question": "C7 推文可以直接用周报吗？",
+    "answer": "可以，周报本身就是结构化素材，改写成故事即可。",
+    "topic_tags": [
+      "C7"
+    ],
+    "quality_score": 0.8,
+    "timestamp": "2026-06-05T15:20:00+08:00"
+  },
+  {
+    "question_id": "m0053",
+    "answer_id": "m0054",
+    "asker": "王五",
+    "answerer": "周八",
+    "question": "G1 提案的竞品分析至少几个？",
+    "answer": "至少 2 个，最好一个同类产品一个可迁移方案。",
+    "topic_tags": [
+      "general"
+    ],
+    "quality_score": 0.6,
+    "timestamp": "2026-05-17T13:50:00+08:00"
+  },
+  {
+    "question_id": "m0059",
+    "answer_id": "m0060",
+    "asker": "周八",
+    "answerer": "陈一",
+    "question": "C4 skill 的 description 怎么写？",
+    "answer": "要同时说明做什么、什么时候用，并包含可检索关键词。",
+    "topic_tags": [
+      "C4"
+    ],
+    "quality_score": 0.6,
+    "timestamp": "2026-05-21T09:20:00+08:00"
+  },
+  {
+    "question_id": "m0061",
+    "answer_id": "m0062",
+    "asker": "吴九",
+    "answerer": "助教-李老师",
+    "question": "请问 deadline 能不能延期？",
+    "answer": "需要提前说明原因并拿到老师书面确认，否则按逾期记录。",
+    "topic_tags": [
+      "general"
+    ],
+    "quality_score": 0.6,
+    "timestamp": "2026-05-22T15:50:00+08:00"
+  },
+  {
+    "question_id": "m0065",
+    "answer_id": "m0066",
+    "asker": "陈一",
+    "answerer": "黄四",
+    "question": "腾讯文档意向表填错了怎么办？",
+    "answer": "在截止前直接改，逾期需要找协同组备案。",
+    "topic_tags": [
+      "general"
+    ],
+    "quality_score": 0.6,
+    "timestamp": "2026-05-25T04:50:00+08:00"
+  },
+  {
+    "question_id": "m0067",
+    "answer_id": "m0068",
+    "asker": "刘二",
+    "answerer": "助教-李老师",
+    "question": "如何判断 L2 和 L3 的区别？",
+    "answer": "L2 是单点改进，L3 要形成可复用结构并能被他人调用。",
+    "topic_tags": [
+      "general"
+    ],
+    "quality_score": 0.6,
+    "timestamp": "2026-05-26T11:20:00+08:00"
+  }
+]

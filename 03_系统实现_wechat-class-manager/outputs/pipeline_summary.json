@@ -1,0 +1,43 @@
+{
+  "adapter": "fixture",
+  "group": "Elite20-项目协同群",
+  "messages": 168,
+  "intent_distribution": {
+    "announcement": 8,
+    "answer": 18,
+    "discussion": 24,
+    "question": 19,
+    "resource": 10,
+    "social": 46,
+    "submission": 43
+  },
+  "classification_accuracy_pct": 96.4,
+  "submissions": 40,
+  "qa_pairs": 18,
+  "graph": {
+    "nodes": {
+      "Challenge": 8,
+      "Message": 154,
+      "QAPair": 18,
+      "Student": 24,
+      "Submission": 40
+    },
+    "edges": {
+      "ANSWERED": 24,
+      "ASKED": 24,
+      "FOR_CHALLENGE": 40,
+      "MENTORED": 14,
+      "SENT": 196,
+      "SUBMITTED": 40,
+      "TAGGED_WITH": 63
+    },
+    "total_nodes": 244,
+    "total_edges": 401
+  },
+  "students": 24,
+  "alerts": 16,
+  "data_window": [
+    "2026-05-11T09:00:00+08:00",
+    "2026-06-09T06:18:00+08:00"
+  ]
+}

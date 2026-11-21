@@ -1,0 +1,857 @@
+{
+  "records": [
+    {
+      "student": "张三",
+      "challenge": "C1",
+      "filename": "张三_C1_proposal.md",
+      "timestamp": "2026-05-13T19:33:00+08:00",
+      "msg_id": "m0009",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "张三",
+      "challenge": "C1",
+      "filename": "张三_C1_AI日志.md",
+      "timestamp": "2026-05-13T19:36:00+08:00",
+      "msg_id": "m0010",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "张三",
+      "challenge": "C1",
+      "filename": "张三_C1_demo.pdf",
+      "timestamp": "2026-05-13T19:39:00+08:00",
+      "msg_id": "m0011",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "李四",
+      "challenge": "C1",
+      "filename": "李四_C1_proposal.md",
+      "timestamp": "2026-05-15T06:41:00+08:00",
+      "msg_id": "m0012",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "李四",
+      "challenge": "C1",
+      "filename": "李四_C1_AI日志.md",
+      "timestamp": "2026-05-15T06:44:00+08:00",
+      "msg_id": "m0013",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "李四",
+      "challenge": "C1",
+      "filename": "李四_C1_demo.pdf",
+      "timestamp": "2026-05-15T06:47:00+08:00",
+      "msg_id": "m0014",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "王五",
+      "challenge": "C1",
+      "filename": "王五_C1_proposal.md",
+      "timestamp": "2026-05-16T17:49:00+08:00",
+      "msg_id": "m0015",
+      "status": "needs_revision",
+      "missing": [
+        "AI日志"
+      ]
+    },
+    {
+      "student": "张三",
+      "challenge": "C2",
+      "filename": "张三_C2_proposal.md",
+      "timestamp": "2026-05-18T04:58:00+08:00",
+      "msg_id": "m0016",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "张三",
+      "challenge": "C2",
+      "filename": "张三_C2_AI日志.md",
+      "timestamp": "2026-05-18T05:01:00+08:00",
+      "msg_id": "m0017",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "张三",
+      "challenge": "C2",
+      "filename": "张三_C2_demo.pdf",
+      "timestamp": "2026-05-18T05:04:00+08:00",
+      "msg_id": "m0018",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "赵六",
+      "challenge": "C2",
+      "filename": "赵六_C2_proposal.md",
+      "timestamp": "2026-05-19T16:06:00+08:00",
+      "msg_id": "m0019",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "赵六",
+      "challenge": "C2",
+      "filename": "赵六_C2_AI日志.md",
+      "timestamp": "2026-05-19T16:09:00+08:00",
+      "msg_id": "m0020",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "孙七",
+      "challenge": "C2",
+      "filename": "孙七_C2_proposal.md",
+      "timestamp": "2026-05-21T03:14:00+08:00",
+      "msg_id": "m0021",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "孙七",
+      "challenge": "C2",
+      "filename": "孙七_C2_AI日志.md",
+      "timestamp": "2026-05-21T03:17:00+08:00",
+      "msg_id": "m0022",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "孙七",
+      "challenge": "C2",
+      "filename": "孙七_C2_demo.pdf",
+      "timestamp": "2026-05-21T03:20:00+08:00",
+      "msg_id": "m0023",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "周八",
+      "challenge": "C4",
+      "filename": "周八_C4_proposal.md",
+      "timestamp": "2026-05-22T14:22:00+08:00",
+      "msg_id": "m0024",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "周八",
+      "challenge": "C4",
+      "filename": "周八_C4_AI日志.md",
+      "timestamp": "2026-05-22T14:25:00+08:00",
+      "msg_id": "m0025",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "周八",
+      "challenge": "C4",
+      "filename": "周八_C4_demo.pdf",
+      "timestamp": "2026-05-22T14:28:00+08:00",
+      "msg_id": "m0026",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "吴九",
+      "challenge": "C4",
+      "filename": "吴九_C4_proposal.md",
+      "timestamp": "2026-05-24T01:30:00+08:00",
+      "msg_id": "m0027",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "吴九",
+      "challenge": "C4",
+      "filename": "吴九_C4_AI日志.md",
+      "timestamp": "2026-05-24T01:33:00+08:00",
+      "msg_id": "m0028",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "吴九",
+      "challenge": "C4",
+      "filename": "吴九_C4_demo.pdf",
+      "timestamp": "2026-05-24T01:36:00+08:00",
+      "msg_id": "m0029",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "郑十",
+      "challenge": "C4",
+      "filename": "郑十_C4_proposal.md",
+      "timestamp": "2026-05-25T12:38:00+08:00",
+      "msg_id": "m0030",
+      "status": "needs_revision",
+      "missing": [
+        "AI日志"
+      ]
+    },
+    {
+      "student": "陈一",
+      "challenge": "C5",
+      "filename": "陈一_C5_proposal.md",
+      "timestamp": "2026-05-26T23:47:00+08:00",
+      "msg_id": "m0031",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "陈一",
+      "challenge": "C5",
+      "filename": "陈一_C5_AI日志.md",
+      "timestamp": "2026-05-26T23:50:00+08:00",
+      "msg_id": "m0032",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "陈一",
+      "challenge": "C5",
+      "filename": "陈一_C5_demo.pdf",
+      "timestamp": "2026-05-26T23:53:00+08:00",
+      "msg_id": "m0033",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "刘二",
+      "challenge": "C5",
+      "filename": "刘二_C5_proposal.md",
+      "timestamp": "2026-05-28T10:55:00+08:00",
+      "msg_id": "m0034",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "刘二",
+      "challenge": "C5",
+      "filename": "刘二_C5_AI日志.md",
+      "timestamp": "2026-05-28T10:58:00+08:00",
+      "msg_id": "m0035",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "刘二",
+      "challenge": "C5",
+      "filename": "刘二_C5_demo.pdf",
+      "timestamp": "2026-05-28T11:01:00+08:00",
+      "msg_id": "m0036",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "杨三",
+      "challenge": "C6",
+      "filename": "杨三_C6_proposal.md",
+      "timestamp": "2026-05-29T22:03:00+08:00",
+      "msg_id": "m0037",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "杨三",
+      "challenge": "C6",
+      "filename": "杨三_C6_AI日志.md",
+      "timestamp": "2026-05-29T22:06:00+08:00",
+      "msg_id": "m0038",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "杨三",
+      "challenge": "C6",
+      "filename": "杨三_C6_demo.pdf",
+      "timestamp": "2026-05-29T22:09:00+08:00",
+      "msg_id": "m0039",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "黄四",
+      "challenge": "C6",
+      "filename": "黄四_C6_proposal.md",
+      "timestamp": "2026-05-31T09:11:00+08:00",
+      "msg_id": "m0040",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "黄四",
+      "challenge": "C6",
+      "filename": "黄四_C6_AI日志.md",
+      "timestamp": "2026-05-31T09:14:00+08:00",
+      "msg_id": "m0041",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "黄四",
+      "challenge": "C6",
+      "filename": "黄四_C6_demo.pdf",
+      "timestamp": "2026-05-31T09:17:00+08:00",
+      "msg_id": "m0042",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "王五",
+      "challenge": "C8",
+      "filename": "王五_C8_proposal.md",
+      "timestamp": "2026-06-01T20:19:00+08:00",
+      "msg_id": "m0043",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "王五",
+      "challenge": "C8",
+      "filename": "王五_C8_AI日志.md",
+      "timestamp": "2026-06-01T20:22:00+08:00",
+      "msg_id": "m0044",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "王五",
+      "challenge": "C8",
+      "filename": "王五_C8_demo.pdf",
+      "timestamp": "2026-06-01T20:25:00+08:00",
+      "msg_id": "m0045",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "李四",
+      "challenge": "C8",
+      "filename": "李四_C8_proposal.md",
+      "timestamp": "2026-06-03T07:27:00+08:00",
+      "msg_id": "m0046",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "李四",
+      "challenge": "C8",
+      "filename": "李四_C8_AI日志.md",
+      "timestamp": "2026-06-03T07:30:00+08:00",
+      "msg_id": "m0047",
+      "status": "accepted",
+      "missing": []
+    },
+    {
+      "student": "李四",
+      "challenge": "C8",
+      "filename": "李四_C8_demo.pdf",
+      "timestamp": "2026-06-03T07:33:00+08:00",
+      "msg_id": "m0048",
+      "status": "accepted",
+      "missing": []
+    }
+  ],
+  "matrix": [
+    {
+      "student": "刘二",
+      "C1": [],
+      "C2": [],
+      "C4": [],
+      "C5": [
+        {
+          "student": "刘二",
+          "challenge": "C5",
+          "filename": "刘二_C5_proposal.md",
+          "timestamp": "2026-05-28T10:55:00+08:00",
+          "msg_id": "m0034",
+          "status": "accepted",
+          "missing": []
+        },
+        {
+          "student": "刘二",
+          "challenge": "C5",
+          "filename": "刘二_C5_AI日志.md",
+          "timestamp": "2026-05-28T10:58:00+08:00",
+          "msg_id": "m0035",
+          "status": "accepted",
+          "missing": []
+        },
+        {
+          "student": "刘二",
+          "challenge": "C5",
+          "filename": "刘二_C5_demo.pdf",
+          "timestamp": "2026-05-28T11:01:00+08:00",
+          "msg_id": "m0036",
+          "status": "accepted",
+          "missing": []
+        }
+      ],
+      "C6": [],
+      "C8": []
+    },
+    {
+      "student": "吴九",
+      "C1": [],
+      "C2": [],
+      "C4": [
+        {
+          "student": "吴九",
+          "challenge": "C4",
+          "filename": "吴九_C4_proposal.md",
+          "timestamp": "2026-05-24T01:30:00+08:00",
+          "msg_id": "m0027",
+          "status": "accepted",
+          "missing": []
+        },
+        {
+          "student": "吴九",
+          "challenge": "C4",
+          "filename": "吴九_C4_AI日志.md",
+          "timestamp": "2026-05-24T01:33:00+08:00",
+          "msg_id": "m0028",
+          "status": "accepted",
+          "missing": []
+        },
+        {
+          "student": "吴九",
+          "challenge": "C4",
+          "filename": "吴九_C4_demo.pdf",
+          "timestamp": "2026-05-24T01:36:00+08:00",
+          "msg_id": "m0029",
+          "status": "accepted",
+          "missing": []
+        }
+      ],
+      "C5": [],
+      "C6": [],
+      "C8": []
+    },
+    {
+      "student": "周八",
+      "C1": [],
+      "C2": [],
+      "C4": [
+        {
+          "student": "周八",
+          "challenge": "C4",
+          "filename": "周八_C4_proposal.md",
+          "timestamp": "2026-05-22T14:22:00+08:00",
+          "msg_id": "m0024",
+          "status": "accepted",
+          "missing": []
+        },
+        {
+          "student": "周八",
+          "challenge": "C4",
+          "filename": "周八_C4_AI日志.md",
+          "timestamp": "2026-05-22T14:25:00+08:00",
+          "msg_id": "m0025",
+          "status": "accepted",
+          "missing": []
+        },
+        {
+          "student": "周八",
+          "challenge": "C4",
+          "filename": "周八_C4_demo.pdf",
+          "timestamp": "2026-05-22T14:28:00+08:00",
+          "msg_id": "m0026",
+          "status": "accepted",
+          "missing": []
+        }
+      ],
+      "C5": [],
+      "C6": [],
+      "C8": []
+    },
+    {
+      "student": "孙七",
+      "C1": [],
+      "C2": [
+        {
+          "student": "孙七",
+          "challenge": "C2",
+          "filename": "孙七_C2_proposal.md",
+          "timestamp": "2026-05-21T03:14:00+08:00",
+          "msg_id": "m0021",
+          "status": "accepted",
+          "missing": []
+        },
+        {
+          "student": "孙七",
+          "challenge": "C2",
+          "filename": "孙七_C2_AI日志.md",
+          "timestamp": "2026-05-21T03:17:00+08:00",
+          "msg_id": "m0022",
+          "status": "accepted",
+          "missing": []
+        },
+        {
+          "student": "孙七",
+          "challenge": "C2",
+          "filename": "孙七_C2_demo.pdf",
+          "timestamp": "2026-05-21T03:20:00+08:00",
+          "msg_id": "m0023",
+          "status": "accepted",
+          "missing": []
+        }
+      ],
+      "C4": [],
+      "C5": [],
+      "C6": [],
+      "C8": []
+    },
+    {
+      "student": "张三",
+      "C1": [
+        {
+          "student": "张三",
+          "challenge": "C1",
+          "filename": "张三_C1_proposal.md",
+          "timestamp": "2026-05-13T19:33:00+08:00",
+          "msg_id": "m0009",
+          "status": "accepted",
+          "missing": []
+        },
+        {
+          "student": "张三",
+          "challenge": "C1",
+          "filename": "张三_C1_AI日志.md",
+          "timestamp": "2026-05-13T19:36:00+08:00",
+          "msg_id": "m0010",
+          "status": "accepted",
+          "missing": []
+        },
+        {
+          "student": "张三",
+          "challenge": "C1",
+          "filename": "张三_C1_demo.pdf",
+          "timestamp": "2026-05-13T19:39:00+08:00",
+          "msg_id": "m0011",
+          "status": "accepted",
+          "missing": []
+        }
+      ],
+      "C2": [
+        {
+          "student": "张三",
+          "challenge": "C2",
+          "filename": "张三_C2_proposal.md",
+          "timestamp": "2026-05-18T04:58:00+08:00",
+          "msg_id": "m0016",
+          "status": "accepted",
+          "missing": []
+        },
+        {
+          "student": "张三",
+          "challenge": "C2",
+          "filename": "张三_C2_AI日志.md",
+          "timestamp": "2026-05-18T05:01:00+08:00",
+          "msg_id": "m0017",
+          "status": "accepted",
+          "missing": []
+        },
+        {
+          "student": "张三",
+          "challenge": "C2",
+          "filename": "张三_C2_demo.pdf",
+          "timestamp": "2026-05-18T05:04:00+08:00",
+          "msg_id": "m0018",
+          "status": "accepted",
+          "missing": []
+        }
+      ],
+      "C4": [],
+      "C5": [],
+      "C6": [],
+      "C8": []
+    },
+    {
+      "student": "李四",
+      "C1": [
+        {
+          "student": "李四",
+          "challenge": "C1",
+          "filename": "李四_C1_proposal.md",
+          "timestamp": "2026-05-15T06:41:00+08:00",
+          "msg_id": "m0012",
+          "status": "accepted",
+          "missing": []
+        },
+        {
+          "student": "李四",
+          "challenge": "C1",
+          "filename": "李四_C1_AI日志.md",
+          "timestamp": "2026-05-15T06:44:00+08:00",
+          "msg_id": "m0013",
+          "status": "accepted",
+          "missing": []
+        },
+        {
+          "student": "李四",
+          "challenge": "C1",
+          "filename": "李四_C1_demo.pdf",
+          "timestamp": "2026-05-15T06:47:00+08:00",
+          "msg_id": "m0014",
+          "status": "accepted",
+          "missing": []
+        }
+      ],
+      "C2": [],
+      "C4": [],
+      "C5": [],
+      "C6": [],
+      "C8": [
+        {
+          "student": "李四",
+          "challenge": "C8",
+          "filename": "李四_C8_proposal.md",
+          "timestamp": "2026-06-03T07:27:00+08:00",
+          "msg_id": "m0046",
+          "status": "accepted",
+          "missing": []
+        },
+        {
+          "student": "李四",
+          "challenge": "C8",
+          "filename": "李四_C8_AI日志.md",
+          "timestamp": "2026-06-03T07:30:00+08:00",
+          "msg_id": "m0047",
+          "status": "accepted",
+          "missing": []
+        },
+        {
+          "student": "李四",
+          "challenge": "C8",
+          "filename": "李四_C8_demo.pdf",
+          "timestamp": "2026-06-03T07:33:00+08:00",
+          "msg_id": "m0048",
+          "status": "accepted",
+          "missing": []
+        }
+      ]
+    },
+    {
+      "student": "杨三",
+      "C1": [],
+      "C2": [],
+      "C4": [],
+      "C5": [],
+      "C6": [
+        {
+          "student": "杨三",
+          "challenge": "C6",
+          "filename": "杨三_C6_proposal.md",
+          "timestamp": "2026-05-29T22:03:00+08:00",
+          "msg_id": "m0037",
+          "status": "accepted",
+          "missing": []
+        },
+        {
+          "student": "杨三",
+          "challenge": "C6",
+          "filename": "杨三_C6_AI日志.md",
+          "timestamp": "2026-05-29T22:06:00+08:00",
+          "msg_id": "m0038",
+          "status": "accepted",
+          "missing": []
+        },
+        {
+          "student": "杨三",
+          "challenge": "C6",
+          "filename": "杨三_C6_demo.pdf",
+          "timestamp": "2026-05-29T22:09:00+08:00",
+          "msg_id": "m0039",
+          "status": "accepted",
+          "missing": []
+        }
+      ],
+      "C8": []
+    },
+    {
+      "student": "王五",
+      "C1": [
+        {
+          "student": "王五",
+          "challenge": "C1",
+          "filename": "王五_C1_proposal.md",
+          "timestamp": "2026-05-16T17:49:00+08:00",
+          "msg_id": "m0015",
+          "status": "needs_revision",
+          "missing": [
+            "AI日志"
+          ]
+        }
+      ],
+      "C2": [],
+      "C4": [],
+      "C5": [],
+      "C6": [],
+      "C8": [
+        {
+          "student": "王五",
+          "challenge": "C8",
+          "filename": "王五_C8_proposal.md",
+          "timestamp": "2026-06-01T20:19:00+08:00",
+          "msg_id": "m0043",
+          "status": "accepted",
+          "missing": []
+        },
+        {
+          "student": "王五",
+          "challenge": "C8",
+          "filename": "王五_C8_AI日志.md",
+          "timestamp": "2026-06-01T20:22:00+08:00",
+          "msg_id": "m0044",
+          "status": "accepted",
+          "missing": []
+        },
+        {
+          "student": "王五",
+          "challenge": "C8",
+          "filename": "王五_C8_demo.pdf",
+          "timestamp": "2026-06-01T20:25:00+08:00",
+          "msg_id": "m0045",
+          "status": "accepted",
+          "missing": []
+        }
+      ]
+    },
+    {
+      "student": "赵六",
+      "C1": [],
+      "C2": [
+        {
+          "student": "赵六",
+          "challenge": "C2",
+          "filename": "赵六_C2_proposal.md",
+          "timestamp": "2026-05-19T16:06:00+08:00",
+          "msg_id": "m0019",
+          "status": "accepted",
+          "missing": []
+        },
+        {
+          "student": "赵六",
+          "challenge": "C2",
+          "filename": "赵六_C2_AI日志.md",
+          "timestamp": "2026-05-19T16:09:00+08:00",
+          "msg_id": "m0020",
+          "status": "accepted",
+          "missing": []
+        }
+      ],
+      "C4": [],
+      "C5": [],
+      "C6": [],
+      "C8": []
+    },
+    {
+      "student": "郑十",
+      "C1": [],
+      "C2": [],
+      "C4": [
+        {
+          "student": "郑十",
+          "challenge": "C4",
+          "filename": "郑十_C4_proposal.md",
+          "timestamp": "2026-05-25T12:38:00+08:00",
+          "msg_id": "m0030",
+          "status": "needs_revision",
+          "missing": [
+            "AI日志"
+          ]
+        }
+      ],
+      "C5": [],
+      "C6": [],
+      "C8": []
+    },
+    {
+      "student": "陈一",
+      "C1": [],
+      "C2": [],
+      "C4": [],
+      "C5": [
+        {
+          "student": "陈一",
+          "challenge": "C5",
+          "filename": "陈一_C5_proposal.md",
+          "timestamp": "2026-05-26T23:47:00+08:00",
+          "msg_id": "m0031",
+          "status": "accepted",
+          "missing": []
+        },
+        {
+          "student": "陈一",
+          "challenge": "C5",
+          "filename": "陈一_C5_AI日志.md",
+          "timestamp": "2026-05-26T23:50:00+08:00",
+          "msg_id": "m0032",
+          "status": "accepted",
+          "missing": []
+        },
+        {
+          "student": "陈一",
+          "challenge": "C5",
+          "filename": "陈一_C5_demo.pdf",
+          "timestamp": "2026-05-26T23:53:00+08:00",
+          "msg_id": "m0033",
+          "status": "accepted",
+          "missing": []
+        }
+      ],
+      "C6": [],
+      "C8": []
+    },
+    {
+      "student": "黄四",
+      "C1": [],
+      "C2": [],
+      "C4": [],
+      "C5": [],
+      "C6": [
+        {
+          "student": "黄四",
+          "challenge": "C6",
+          "filename": "黄四_C6_proposal.md",
+          "timestamp": "2026-05-31T09:11:00+08:00",
+          "msg_id": "m0040",
+          "status": "accepted",
+          "missing": []
+        },
+        {
+          "student": "黄四",
+          "challenge": "C6",
+          "filename": "黄四_C6_AI日志.md",
+          "timestamp": "2026-05-31T09:14:00+08:00",
+          "msg_id": "m0041",
+          "status": "accepted",
+          "missing": []
+        },
+        {
+          "student": "黄四",
+          "challenge": "C6",
+          "filename": "黄四_C6_demo.pdf",
+          "timestamp": "2026-05-31T09:17:00+08:00",
+          "msg_id": "m0042",
+          "status": "accepted",
+          "missing": []
+        }
+      ],
+      "C8": []
+    }
+  ]
+}

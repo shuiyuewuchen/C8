@@ -1,0 +1,12 @@
+{
+  "challenges": [
+    {"id": "C1", "name_cn": "信息获取与翻译", "keywords": ["翻译", "translate", "外文", "文献", "C1"], "deadline": "2026-05-20T23:59:00+08:00", "extensions": [".md", ".pdf"]},
+    {"id": "C2", "name_cn": "学术内容产出", "keywords": ["论文", "学术", "proposal", "申请书", "C2"], "deadline": "2026-05-27T23:59:00+08:00", "extensions": [".docx", ".md"]},
+    {"id": "C3", "name_cn": "群内参与讨论", "keywords": ["讨论", "群内", "参与", "C3"], "deadline": "2026-05-31T23:59:00+08:00", "extensions": []},
+    {"id": "C4", "name_cn": "技能分享", "keywords": ["skill", "技能", "分享", "C4", "github"], "deadline": "2026-06-05T23:59:00+08:00", "extensions": [".md", ".zip"]},
+    {"id": "C5", "name_cn": "GitHub 开源协作", "keywords": ["github", "仓库", "开源", "repo", "C5"], "deadline": "2026-06-07T23:59:00+08:00", "extensions": [".zip", ".md"]},
+    {"id": "C6", "name_cn": "Web App 部署上线", "keywords": ["web", "部署", "上线", "app", "C6"], "deadline": "2026-06-10T23:59:00+08:00", "extensions": [".zip", ".html"]},
+    {"id": "C7", "name_cn": "内容传播", "keywords": ["公众号", "传播", "推文", "C7", "视频"], "deadline": "2026-06-12T23:59:00+08:00", "extensions": [".md", ".pdf"]},
+    {"id": "C8", "name_cn": "真实项目落地", "keywords": ["真实项目", "落地", "C8", "交付", "AAR"], "deadline": "2026-06-17T23:59:00+08:00", "extensions": [".md", ".pdf"]}
+  ]
+}
